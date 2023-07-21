@@ -2,6 +2,15 @@
     width: 200px;
     height: 100px;
     background-color: red;
+
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 50px;
+    color:blue;
+
+    border-style: solid;
+    border-color: green;
+    border-width: 15px;
     position: absolute;
   }
   
@@ -11,6 +20,16 @@
     background-color: yellow;
     left: 250px;
     position: absolute;
+
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 50px;
+
+    border-style: solid;
+    border-color: red;
+    border-width: 15px;
+    position: absolute;
+
   }
   
   .third-box-container {
@@ -19,4 +38,15 @@
     background-color: green;
     left: 500px;
     position: absolute;
+    
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 50px;
+    color:blue;
+
+    border-style: solid;
+    border-color: yellow;
+    border-width: 15px;
+    position: absolute;
+
   }
